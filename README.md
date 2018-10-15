@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/ngenovictor/learn_flask_api2.svg?branch=master)](https://travis-ci.org/ngenovictor/learn_flask_api2)
+[![Coverage Status](https://coveralls.io/repos/github/ngenovictor/learn_flask_api2/badge.svg?branch=master)](https://coveralls.io/github/ngenovictor/learn_flask_api2?branch=master)
 Learn Flask Api
 Social Media App
 1. Users can create an account
