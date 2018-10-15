@@ -10,6 +10,6 @@ Using a social media concept, this app creates a platform to connect users.
 2. Users can login
 3. Users can create posts
 4. Users can interact with post
-    a. Can like a post
-    b. Can upvote/downvote a post
-    c. Can comment on a post
+    i. Can like a post
+    ii. Can upvote/downvote a post
+    iii. Can comment on a post
