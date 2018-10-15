@@ -1,4 +1,4 @@
-Learn Flask Api
+Learn Flask Api [![Build Status](https://travis-ci.org/ngenovictor/learn_flask_api2.svg?branch=master)](https://travis-ci.org/ngenovictor/learn_flask_api2)
 Social Media App
 1. Users can create an account
 2. Users can login
